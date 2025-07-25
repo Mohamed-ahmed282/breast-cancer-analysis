@@ -19,6 +19,8 @@ A simple exploratory data analysis project using Python to understand the relati
 - Most patients are between 45–50 years old.
 - Patients with tumor sizes larger than 35 tend to have shorter survival times or are more likely to be deceased.
 - Marital status distribution shows a significant majority are **Married**, followed by **Divorced**, then **Single**.
+- The analysis suggests a potential correlation between larger tumor sizes and higher cancer grades.
+
 
 ## 📁 How to Run
 
